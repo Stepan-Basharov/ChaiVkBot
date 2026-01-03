@@ -12,7 +12,7 @@ A simple synchronous VK bot that connects to Character.ai, allowing users to cha
 ## Installation & Setup
 1. Clone the repo:
 ```
-git clone https://github.com/true-sigma/ChaiVkBot.git && cd ChaiVkBot
+git clone https://github.com/Stepan-Basharov/ChaiVkBot.git && cd ChaiVkBot
 ```
 2. Set up venv:
 ```
@@ -24,4 +24,5 @@ pip install -r requirements.txt
    + [VK creds](https://vkhost.github.io/)
    + [Cai creds](https://github.com/kramcat/CharacterAI/blob/main/examples/sync/login.py)
 5. Run main.py
+
 
